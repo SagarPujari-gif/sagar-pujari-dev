@@ -2,3 +2,7 @@ Hi, I'm Sagar Pujari. I am a Computer Science and Engineering student at REVA Un
 - Learning C and Data Structures
 - Interested in backend development and algorithms
 - Goal: Build scalable systems and crack product company roles
+
+## Projects
+
+- Faculty Management System: A web application with schedule conflict resolution and workload heatmaps.
